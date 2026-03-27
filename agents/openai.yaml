@@ -1,0 +1,4 @@
+interface:
+  display_name: "WinUI 3 Microsoft Docs"
+  short_description: "Official WinUI 3 Microsoft Learn map"
+  default_prompt: "Use $winui3-microsoft-docs to answer a WinUI 3 or Windows App SDK question from Microsoft Learn sources."
